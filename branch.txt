@@ -1,4 +1,2 @@
 first line on git branch -t test
 actualy wrong
-
-adding third
